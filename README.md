@@ -126,3 +126,5 @@ The last section of the tutorial must be a feedback section. You can copy paste 
 If you have any feedback or comments or want to improve something, please open an issue on github [here](https://github.com/scalable-web-systems/feedback/issues/new/choose)
 
 ```
+
+Thank you for looking to contribute to our wiki! Happy Writing!
