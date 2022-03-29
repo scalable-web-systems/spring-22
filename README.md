@@ -118,7 +118,7 @@ Example:
 
 ### Feedback Section 
 
-The last section of the tutorial must be a feedback section. You can copy paste the following for reference:
+The last section of the tutorial must be a feedback section(named exactly "Feedback"). You can copy paste the following for reference:
 
 ```
 ## Feedback
