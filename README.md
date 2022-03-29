@@ -89,7 +89,7 @@ Picture of what happens when you right click on the image:
 
 ### Author Section
 
-There must be an author section that should be right after the heading(if there is a pciture right after the heading, then perhaps after that) where you mention author name and if the author wants they can include their social links.
+There must be an author section that should be right after the heading(if there is a picture right after the heading, then perhaps after that) where you mention author name and if the author wants they can include their social links.
 
 Example:
 
