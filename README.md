@@ -14,6 +14,7 @@ The way the system works is that it treats each tutorial in a markdown file as a
 Each tutorial must have a comment on the first line of the tutorial (befor). The comment should contain a number corresponding to the topics given below:
 
 0 - Kubernetes
+<br>
 1 - Docker
 
 For Example:
@@ -88,8 +89,31 @@ Picture of what happens when you right click on the image:
 
 ### Author Section
 
+There must be an author section that should be right after the heading(if there is a pciture right after the heading, then perhaps after that) where you mention author name and if the author wants they can include their social links.
+
+Example:
+
+This is how your markdown file might look like
+
+```
+### Author
+
+Abhinav Tripathy ![Linkedin](linkedin.com/in/abhinavtripathy)
+
+```
 
 ### Acknowledgement Section
 
+The second last section of the tutorial must be an acknowledgement section where you can add links to various resources you may have used for the tutorial. Remember, as part of the scientific community, it is very important to give everyone their credit, so please don't forget to give acknowledgements!
+
 
 ### Feedback Section 
+
+The last section of the tutorial must be a feedback section. You can copy paste the following for reference:
+
+```
+## Feedback
+
+If you have any feedback or comments or want to improve something, please open an issue on github [here](https://github.com/scalable-web-systems/feedback/issues/new/choose)
+
+```
