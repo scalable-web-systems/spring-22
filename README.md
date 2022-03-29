@@ -11,7 +11,7 @@ The way the system works is that it treats each tutorial in a markdown file as a
 
 ### Comment to Declare Topic 
 
-Each tutorial must have a comment on the first line of the tutorial (befor). The comment should contain a number corresponding to the topics given below:
+Each tutorial must have a comment on the first line of the tutorial (before the heading). The comment should contain a number corresponding to the topics given below:
 
 0 - Kubernetes
 <br>
