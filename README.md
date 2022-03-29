@@ -72,6 +72,12 @@ and navigate to your file shown as below:
 
 ![](https://github.com/scalable-web-systems/images/blob/main/admin/adding_images_2.png?raw=true)
 
+
+Step 4:
+
+
+![](https://github.com/scalable-web-systems/images/blob/main/admin/adding_images_3.png?raw=true)
+
 ### Author Section
 
 
