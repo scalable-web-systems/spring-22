@@ -42,6 +42,8 @@ Clone the images repository:
 git clone https://github.com/scalable-web-systems/images.git
 ```
 
+Make a new branch with the name of branch being your github username. 
+
 Step 2:
 
 Add your image to the folder that corresponds to the semester, at the time of writing this guide and for this example the folder is spring-22. 
@@ -59,6 +61,16 @@ abhinavtripathy_kubernetes_demo
 
 ![](https://github.com/scalable-web-systems/images/blob/main/admin/adding_images_1.png?raw=true)
 
+
+Step 3:
+
+Navigate to the images repository: 
+
+[Github Images Repository](https://github.com/scalable-web-systems/images)
+
+and navigate to your file shown as below:
+
+![](https://github.com/scalable-web-systems/images/blob/main/admin/adding_images_2.png?raw=true)
 
 ### Author Section
 
