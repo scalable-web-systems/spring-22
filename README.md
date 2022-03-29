@@ -102,9 +102,18 @@ Abhinav Tripathy ![Linkedin](linkedin.com/in/abhinavtripathy)
 
 ```
 
-### Acknowledgement Section
+### Acknowledgements Section
 
-The second last section of the tutorial must be an acknowledgement section where you can add links to various resources you may have used for the tutorial. Remember, as part of the scientific community, it is very important to give everyone their credit, so please don't forget to give acknowledgements!
+The second last section of the tutorial must be an acknowledgements section (named exatly "Acknowledgements") where you can add links to various resources you may have used for the tutorial. Remember, as part of the scientific community, it is very important to give everyone their credit, so please don't forget to give acknowledgements!
+
+Example:
+
+```
+## Acknowledgements
+
+- [About kubernetes](Link 1)
+- [About docker] (Link 2)
+```
 
 
 ### Feedback Section 
