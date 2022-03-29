@@ -75,6 +75,14 @@ and navigate to your file shown as below:
 
 Step 4:
 
+Right click on the image and click on "copy image URL". The URL that will be copied will be the URL of the image file which can be embedded in a markdown file as such:
+
+```
+![](IMAGE_URL_LINK)
+
+```
+
+Picture of what happens when you right click on the image:
 
 ![](https://github.com/scalable-web-systems/images/blob/main/admin/adding_images_3.png?raw=true)
 
