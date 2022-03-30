@@ -39,5 +39,24 @@ def test_check_comment():
             else: 
                 assert False
 
+# Check basic content in the markdown files
+def test_check_md_content():
+    for file_name in get_file_names():
+        with open(file_name, 'r') as f:
+            text = f.read()
+
+            if "Author" not in text:
+                assert False
+
+            if "Acknowledgements" not in text:
+                assert False
+
+            if "Feedback" not in text:
+                assert False
+            
+        
+        assert True
+
+
 
 
