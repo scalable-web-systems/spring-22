@@ -2,6 +2,12 @@
 # Kubernetes-System-Design
 
 ![](https://snyk.io/wp-content/uploads/Kubernetes-Blog.png)
+
+
+## Author 
+
+> Abhinav Tripathy
+
 ## Introduction 
 
 When it comes to building scalable systems, kubernetes is a great tool and a quite a popular one. However, there are many fundamental concepts that one needs to think about from a system design perspective when thinking about scalable systems in the context of kubernetes. This tutorial hopes to cover some of the fundamental concepts such as databases, caching, the CAP theorem. 
@@ -218,7 +224,11 @@ Uses for API Gateway:
 
 
 ## Acknowledgements 
-
 - [CAP](https://stackoverflow.com/questions/12346326/cap-theorem-availability-and-partition-tolerance)
 - [Updating cache](https://dev.to/vishnuchilamakuru/4-ways-to-update-your-cache-jmg)
 - [Message Processing Guarantees](https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e)
+
+
+## Feedback
+
+If you have any feedback or comments or want to improve something, please open an issue on github [here](https://github.com/scalable-web-systems/feedback/issues/new/choose)
