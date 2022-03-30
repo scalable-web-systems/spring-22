@@ -127,4 +127,9 @@ If you have any feedback or comments or want to improve something, please open a
 
 ```
 
+## Submitting Your Tutorial 
+
+To submit your tutorial to this repository, create a new branch with with it's name being your github username and then submit a pull request. You will be able to merge the pull request once all the test cases have passed. 
+
+
 Thank you for looking to contribute to our wiki! Happy Writing!
