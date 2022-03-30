@@ -1,4 +1,4 @@
-name: Markdown Validation
+name: md_validation
 
 on:
   pull_request:
