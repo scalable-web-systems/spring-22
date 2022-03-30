@@ -46,3 +46,5 @@ Auto repair is a key feature in kubernetes. For example, if we want 2 pods alway
 Kuberenetes is also really good for scaling and especially autoscaling. It can scale from 3 requests per second to 3 million requests per second very easily. It has autoscaling features that can be enabled from one command. For the use case of CYE, this might be useful if there is unexpected traffic, it can scale and create additional pods or even nodes if required. 
 
 
+## Acknowledgements
+
