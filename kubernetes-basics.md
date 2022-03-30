@@ -48,3 +48,7 @@ Kuberenetes is also really good for scaling and especially autoscaling. It can s
 
 ## Acknowledgements
 
+
+## Feedback
+
+If you have any feedback or comments or want to improve something, please open an issue on github [here](https://github.com/scalable-web-systems/feedback/issues/new/choose)

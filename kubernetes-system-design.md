@@ -227,3 +227,8 @@ Uses for API Gateway:
 - [CAP](https://stackoverflow.com/questions/12346326/cap-theorem-availability-and-partition-tolerance)
 - [Updating cache](https://dev.to/vishnuchilamakuru/4-ways-to-update-your-cache-jmg)
 - [Message Processing Guarantees](https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e)
+
+
+## Feedback
+
+If you have any feedback or comments or want to improve something, please open an issue on github [here](https://github.com/scalable-web-systems/feedback/issues/new/choose)
