@@ -218,7 +218,6 @@ Uses for API Gateway:
 
 
 ## Acknowledgements 
-
 - [CAP](https://stackoverflow.com/questions/12346326/cap-theorem-availability-and-partition-tolerance)
 - [Updating cache](https://dev.to/vishnuchilamakuru/4-ways-to-update-your-cache-jmg)
 - [Message Processing Guarantees](https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e)
