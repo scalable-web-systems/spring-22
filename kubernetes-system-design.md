@@ -6,7 +6,7 @@
 
 ## Author 
 
-> Abhinav Tripathy
+> Abhinav Tripathy [Linkedin]()
 
 ## Introduction 
 
