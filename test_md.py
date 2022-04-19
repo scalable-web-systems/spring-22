@@ -68,7 +68,13 @@ def test_check_urls():
             for url in urls:
                 url = url.replace(')', '')
                 r = requests.get(url)
-                print(r.status_code, " ",url)
+                if r.status_code == 200 or r.status_code >= 500:
+                    continue
+                else:
+                    assert False
+    
+    assert True
+
 
 
 
