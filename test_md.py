@@ -67,11 +67,21 @@ def test_check_urls():
             urls = re.findall("(?P<url>https?://[^\s]+)", text)
             for url in urls:
                 url = url.replace(')', '')
-                r = requests.get(url)
-                if r.status_code == 200 or r.status_code >= 500:
-                    continue
-                else:
-                    assert False
+                try:
+                    r = requests.get(url)
+                    if r.status_code == 200 or r.status_code >= 500:
+                        continue
+                    else:
+                        assert False
+                except requests.exceptions.RequestException as err:
+                    print ("OOps: Something Else",err)
+                except requests.exceptions.HTTPError as errh:
+                    print ("Http Error:",errh)
+                except requests.exceptions.ConnectionError as errc:
+                    print ("Error Connecting:",errc)
+                except requests.exceptions.Timeout as errt:
+                    print ("Timeout Error:",errt)   
+            
     
     assert True
 
