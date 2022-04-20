@@ -133,3 +133,10 @@ To submit your tutorial to this repository, create a new branch with with it's n
 
 
 Thank you for looking to contribute to our wiki! Happy Writing!
+
+
+## FAQ
+
+### Debugging Errors
+
+If one of the github actions doesn't pass, click on the "details" button on the action. This would redirect you to the actions part and give logs of what went wrong and which tests are not passing. 
