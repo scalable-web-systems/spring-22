@@ -69,7 +69,7 @@ def test_check_urls():
                 url = url.replace(')', '')
                 try:
                     r = requests.get(url)
-                    if r.status_code == 200 or r.status_code >= 500:
+                    if r.status_code == 200 or r.status_code >= 500 or r.status_code == 403:
                         continue
                     else:
                         assert False
